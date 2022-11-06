@@ -1,2 +1,3 @@
-# Hello-world
-All hello world code
+# maven-project
+
+Simple Maven Project for devops
